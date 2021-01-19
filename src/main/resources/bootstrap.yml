@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 10.210.98.75:8848
+        #register-enabled: false
+      config:
+        server-addr: 10.210.98.75:8848
+        file-extension: yaml
+        name: test
+
+bq:
+  threadpools:
+    nacosDataId: thread-pool.json
+    nacosGroup: DEFAULT_GROUP
