@@ -7,3 +7,4 @@
           3.使用@Aysnc，做线程池任务处理，需要将本地生成的线程池对象交由spring管理
 原始代码来源：https://github.com/yinjihuan/kitty
 关注公众号:木巴沙
+![image](https://user-images.githubusercontent.com/26828775/115985937-a554fd80-a5e0-11eb-94d3-07ac7051ec8f.png)
